@@ -1,0 +1,30 @@
+[
+    {
+        "title": "islamic studies",
+        "author": "molana akmal",
+        "year": 2009,
+        "genre": "Religious",
+        "read_status": true
+    },
+    {
+        "title": "islamic studies",
+        "author": "molana akmal",
+        "year": 2009,
+        "genre": "religios",
+        "read_status": true
+    },
+    {
+        "title": "Dalail-ul-Khairat",
+        "author": "Imam Jazuli (Rahmatullah Alaih)",
+        "year": 2004,
+        "genre": "Salawat",
+        "read_status": true
+    },
+    {
+        "title": "Fatawa Razawiyyah",
+        "author": "Imam Ahmad Raza Khan Barelvi (Rahmatullah Alaih)",
+        "year": 2000,
+        "genre": "Fiqh (Hanafi)",
+        "read_status": true
+    }
+]
